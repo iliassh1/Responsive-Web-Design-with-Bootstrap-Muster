@@ -1,4 +1,5 @@
-# Responsive-Web-Design-with-Bootstrap
+# Responsive-Web-Design-with-Bootstrap  
+This is a static and responsive website which developed using HTML5 / CSS3 and Bootstrap 4.
 
 ### Tools  
 HTML5/CSS3  
